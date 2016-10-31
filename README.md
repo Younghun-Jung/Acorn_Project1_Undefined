@@ -1,11 +1,13 @@
 
-# Project: Acorn_Project1_Undefined
+# Project: Fashion Magazine Community Web Site (front-end)
 </br>
 
 ## How to use
 - Download this repo on your PC
 - On 73 line in code of start.html, change the window.location.href ="..." to your path including index.html file.
 - Just use the fashion trend analysis service
+- Write a comment on own your ID and Password
+- Explore Gallery from virtual fashion experts
 
 ## Category
 - Style tab: Men, Women, Kids, Interior
