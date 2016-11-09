@@ -5,6 +5,7 @@
 ## How to use
 - Download this repo on your PC
 - On 73 line in code of start.html, change the window.location.href ="..." to your path including index.html file.
+- If you do not want to use start.html, you can start this app with index.html, 
 - Just use the fashion trend analysis service
 - Write a comment on own your ID and Password
 - Explore Gallery from virtual fashion experts
